@@ -17,7 +17,6 @@ import lombok.NoArgsConstructor;
 @Data
 @Table(name="expense")
 public class Expense {
-
 	
 	@Id
 	private Long id ;
